@@ -1,9 +1,9 @@
-import yori from "./assets/yori.jpg"
+import yoruka from "./assets/yoruka.jpg"
 
 function Card(){
     return(
         <div className="card">
-            <img className="gambar" src={yori} alt="Asanagi yori" />
+            <img className="gambar" src={yoruka} alt="Asanagi yori" />
             <h2 className="card-title">Asanagi Yori</h2>
             <p className="Card-text">ini adalah paragraf di dalam card</p>
         </div>
